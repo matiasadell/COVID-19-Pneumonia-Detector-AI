@@ -17,7 +17,7 @@ El cancer de piel puede ser detectado de forma mas precisa gracias al Deep Learn
 
 Referencia: “Computer learns to detect skin cancer more accurately than doctors". The Guardian. 29 May 2018
 
-Por eso he desarrollado un modelo que predice enfermedades de los pulmones. Para eso el usuario debera mandarle imagenes de radiografias del pecho, y este modelo detectara si esta sano o si tiene alguna de estas enfermedades:
+Por eso, he desarrollado un modelo que predice enfermedades de los pulmones. Para eso el usuario debera mandarle imagenes de radiografias del pecho, y este modelo detectara si esta sano o si tiene alguna de estas enfermedades:
 
 0 - Covid-19
 
